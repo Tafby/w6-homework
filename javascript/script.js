@@ -11,6 +11,11 @@ function signUp(){
   console.log(userInput);
   document.getElementById("output-here").innerHTML = "Thanks for signing up, "+ userInput;}
 
+function cupcakes(){
+alert("CUPCAKES!!!");
+}
+
+
 
 
 
